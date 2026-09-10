@@ -47,7 +47,7 @@
   },
   "devDependencies": {
     "typescript": "^6.0.3",
-    "vitest": "^4.1.5"
+    "vitest": "^4.1.11"
   },
   "optionalDependencies": {
     "re2-wasm": "^1.0.2"
